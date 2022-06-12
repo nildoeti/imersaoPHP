@@ -1,0 +1,30 @@
+body {
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	font-size: 16px;
+	padding: 50px 100px;
+
+}
+
+a {
+	color: #000;
+}
+
+h2 {
+	color: #133141;
+	margin-bottom: 20px;
+}
+
+textarea {
+	height: 150px;
+	line-height: 18px;
+	max-width: 400px;
+	width: 400px;
+
+}
+
+.submit input {
+	color: rgb(71, 22, 22);
+	background-color: #b6cfdd;
+	height: 30px;
+	width: 100px;
+}
